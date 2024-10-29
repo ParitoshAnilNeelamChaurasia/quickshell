@@ -1,7 +1,5 @@
 import React from 'react';
 import KanbanColumn from './KanbanColumn';
-import Priority from './Priority';
-import User from './User';
 import './KanbanBoard.css';
 
 // Initial tasks setup
