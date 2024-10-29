@@ -1,0 +1,26 @@
+/* Priority.css */
+.priority-board {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+  }
+  
+  .priority-column {
+    background-color: lightgrey;
+    padding: 10px;
+    border-radius: 5px;
+    flex: 1;
+    margin: 0 10px;
+  }
+  
+  .priority-tasks {
+    margin-top: 10px;
+  }
+  
+  .priority-task {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-top: 5px;
+  }
+  

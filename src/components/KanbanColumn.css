@@ -1,0 +1,25 @@
+.kanban-column {
+    border: 1px solid #ccc; /* Adjust border color */
+    border-radius: 5px; /* Rounded corners */
+    margin: 10px; /* Space between columns */
+    padding: 10px; /* Padding inside the column */
+    background-color: #f9f9f9; /* Background color */
+}
+
+.kanban-column h2 {
+    font-size: 1.5em; /* Column title size */
+    margin-bottom: 10px; /* Space below the title */
+}
+
+.tickets {
+    display: flex;
+    flex-direction: column; /* Align tickets vertically */
+}
+
+.kanban-ticket {
+    background-color: white; /* Background color for tickets */
+    border: 1px solid #ddd; /* Border color for tickets */
+    border-radius: 3px; /* Rounded corners for tickets */
+    margin: 5px 0; /* Space between tickets */
+    padding: 10px; /* Padding inside the ticket */
+}

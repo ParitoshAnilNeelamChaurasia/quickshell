@@ -1,0 +1,35 @@
+.ticket-card {
+    padding: 10px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    text-align: left;
+  }
+  
+  .ticket-id {
+    font-weight: bold;
+    color: #666;
+  }
+  
+  .ticket-info {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8px;
+  }
+  
+  .tag {
+    background-color: #eee;
+    padding: 3px 8px;
+    border-radius: 4px;
+  }
+  
+  .priority {
+    font-weight: bold;
+    color: #ff8c00;
+  }
+  
+  .status {
+    font-size: 0.9em;
+    color: #888;
+  }
+  
